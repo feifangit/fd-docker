@@ -1,7 +1,7 @@
 ## Basic images for python web application
 
 ### [feifan/supervisord](https://registry.hub.docker.com/u/feifan/supervisord/)
-very basic image, includes supervisord, a process management service.[detail](./supervisord/README.md)
+very basic image, includes supervisord, a process management service and SSH server.[detail](./supervisord/README.md)
 
 ### [feifan/pywebapp](https://registry.hub.docker.com/u/feifan/pywebapp/)
 a platform to run python applications. Nginx, gunicorn, gevent inside.[detail](./pywebapp/README.md)
