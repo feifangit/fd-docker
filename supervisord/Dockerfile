@@ -16,6 +16,7 @@ RUN echo 'root:futureDial1' |chpasswd
 # enable root login
 RUN sed -i "s/^PermitRootLogin\s*without-password$/PermitRootLogin yes/g" /etc/ssh/sshd_config
 
+ADD supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 ADD sshd.conf /etc/supervisor/conf.d/sshd.conf
 
 EXPOSE 22
