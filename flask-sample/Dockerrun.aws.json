@@ -1,0 +1,9 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "feifan/flasksample"
+    },
+    "Ports":[
+        {"ContainerPort":"80"}
+    ]
+}
