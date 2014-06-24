@@ -14,5 +14,9 @@ Application will start running on `localhost:9999` or `(boot2docker ip):9999`
 upload `Dockerrun.aws.json` in the project to AWS elastic beanstalk console. It takes about 8~10 minutes to finish the deployment.
 ![screen shot](Screenshot2.png)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/lBu7Ov3Rt-M" frameborder="0" allowfullscreen></iframe>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lBu7Ov3Rt-M
+" target="_blank"><img src="http://img.youtube.com/vi/lBu7Ov3Rt-M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="420" height="315" border="10" /></a>
+
 
